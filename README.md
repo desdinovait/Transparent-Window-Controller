@@ -1,7 +1,7 @@
 # Transparent Window Controller for Unity
 
 <p align="center">
-  <img src="ttps://img.itch.zone/aW1hZ2UvMzM0MDQyNy8yMDAzMTkwOS5wbmc=/original/SrZZaD.png">
+  <img src="https://img.itch.zone/aW1hZ2UvMzM0MDQyNy8yMDAzMTkwOS5wbmc=/original/SrZZaD.png">
 </p>
 
 Transparent Desktop Controller helps you create a transparent window for your game or application.
